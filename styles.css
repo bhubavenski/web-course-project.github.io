@@ -71,8 +71,9 @@ body {
 }
 
 .nav-list a:hover {
-  background-color: rgba(15, 106, 115, 0.12);
+  /* background-color: rgba(15, 106, 115, 0.12); */
   color: var(--primary-dark);
+  text-decoration: underline;
 }
 
 .btn-link {
